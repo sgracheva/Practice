@@ -46,50 +46,25 @@ public class Task_3_4_Main {
         int c = x4++ * y4--;
         System.out.println("c =" + c + " x4 =" + x4 + " y =" + y4);
 
-         System.out.println("*****Задача 1.2*******");
-//        //Ввести числа a и b с консоли. Если a>b, то вывести разность (a-b) передав ее в новую переменную.
-//        // Иначе если a=b  вывести сумму этих чисел.
-//        //Иначе, вывести разность b-a. Результат вычисления передать в новую переменную
-//        Scanner in2= new Scanner(System.in);
-//        System.out.println("Введите a");
-//        int a= in2.nextInt();
-//        System.out.println("Введите b");
-//        int b= in2.nextInt();
-//
-//        if (a>b) {
-//            c=a-b;
-//            System.out.println(c);
-//        }  else if (a==b);{
-//            int d = a+b;
-//            System.out.println(d);
-//        }  else  {
-//            int i= b-a;
-//            System.out.println(i);
-//        }
-
+        System.out.println("*************1/2**********");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите число a: ");
         int a = scanner.nextInt();
         System.out.print("Введите число b: ");
         int b = scanner.nextInt();
 
-        int result; // переменная для результата
+        int result;
 
         if (a > b) {
-            // Если a > b, result = a - b
             result = a - b;
         } else if (a == b) {
-            // Если a == b, result = a + b
             result = a + b;
         } else {
-            // Иначе, result = b - a
-            result = b - a;
+             result = b - a;
         }
 
-        // Вывод результата
         System.out.println("Результат: " + result);
 
-//        scanner.close();
 
         System.out.println("*****Задача 2.2*******");
 
@@ -97,11 +72,11 @@ public class Task_3_4_Main {
 //Ввести числа a и b с консоли. Если a>b и b не равно 0-вывести результат деления a на b.
 //Иначе если a не равно 0, вывести b/a, Иначе вывести сумму чисел a и b.
 
-        Scanner in2 = new Scanner(System.in);
+        Scanner in3 = new Scanner(System.in);
       System.out.println("Введите a");
-       int a1= in2.nextInt();
+       int a1= in3.nextInt();
       System.out.println("Введите b");
-       int b1= in2.nextInt();
+       int b1= in3.nextInt();
 
        if (a1>b1 & b1!=0){
            System.out.println(a1/b1);
