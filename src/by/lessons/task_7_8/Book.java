@@ -23,11 +23,6 @@ public class Book {
         this.establ = establ;
         this.pages = pages;
         this.price = price;
-        /*
-         * * Инициализацию книги в классе main выполнять через конструктор с параметрами.
-         *     * Также определите конструктор без параметров.
-         */
-
 
     }
 
