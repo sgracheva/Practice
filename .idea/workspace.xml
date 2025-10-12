@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2425d8b7-393a-41dd-b2f4-ae286ce3f84d" name="Changes" comment="Practice_Task_7_8">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_3_4/Task_3_4_Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2425d8b7-393a-41dd-b2f4-ae286ce3f84d" name="Changes" comment="Practice_Task_7_8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +207,39 @@
       <option name="project" value="LOCAL" />
       <updated>1760300164760</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practice_Task_7_8">
+      <option name="closed" value="true" />
+      <created>1760300305172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760300305172</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Practice_Task_7_8">
+      <option name="closed" value="true" />
+      <created>1760300350629</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760300350629</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Practice_Task_7_8">
+      <option name="closed" value="true" />
+      <created>1760300435560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760300435560</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Practice_Task_7_8">
+      <option name="closed" value="true" />
+      <created>1760300450719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760300450719</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

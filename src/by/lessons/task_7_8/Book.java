@@ -26,9 +26,11 @@ public class Book {
 
     }
 
+
     public Book() {
 
          }
+
 
     public String info() {
         String result = "Id: " + id + " name: " + name + " author: " + author + " publish: " + publish + " establ: " + establ + " pages: " + pages + " price: " + price;
