@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2425d8b7-393a-41dd-b2f4-ae286ce3f84d" name="Changes" comment="Practice_Task_3_4" />
+    <list default="true" id="2425d8b7-393a-41dd-b2f4-ae286ce3f84d" name="Changes" comment="Practice_Task_7_8">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_3_4/Task_3_4_Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practice/by/lessons/task_5_6/Task_8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/lessons/task_5_6/Task_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="task_5_6" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +55,9 @@
     &quot;accountId&quot;: &quot;34eeab99-f974-4c61-a3cc-9883a0981abd&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -47,21 +68,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Strings.executor": "Debug",
+    "Application.Task_1.executor": "Run",
     "Application.Task_10.executor": "Run",
     "Application.Task_1_2.executor": "Run",
+    "Application.Task_2.executor": "Run",
     "Application.Task_3.executor": "Run",
     "Application.Task_3_4_Main.executor": "Run",
     "Application.Task_4.executor": "Run",
     "Application.Task_5_6_Main.executor": "Run",
-    "Application.Task_8.executor": "Run",
+    "Application.Task_8.executor": "Debug",
     "Application.task_2.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "task__7__8",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/svetlana.gracheva/Desktop/Java/Практика/Practice",
+    "last_opened_file_path": "C:/Users/svetlana.gracheva/Desktop/Java/Practice/Practice",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -72,9 +100,22 @@
       <recent name="massive" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_3_4_Main">
-    <configuration name="Task_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.lessons.task_5_6.Task_10" />
+  <component name="RunManager" selected="Application.Task_8">
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.lessons.task_7_8.Strings" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.lessons.task_7_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.lessons.task_5_6.Task_1" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -86,24 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.lessons.task_5_6.Task_3" />
+    <configuration name="Task_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.lessons.task_5_6.Task_2" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="by.lessons.task_5_6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_3_4_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.lessons.task_3_4.Task_3_4_Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.lessons.task_3_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,6 +141,8 @@
       </method>
     </configuration>
     <configuration name="Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="23" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="by.lessons.task_5_6.Task_4" />
       <module name="Practice" />
       <extension name="coverage">
@@ -137,13 +168,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Strings" />
+      <item itemvalue="Application.Task_1" />
+      <item itemvalue="Application.Task_2" />
+      <item itemvalue="Application.Task_4" />
+      <item itemvalue="Application.Task_8" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_3_4_Main" />
-        <item itemvalue="Application.Task_4" />
-        <item itemvalue="Application.Task_10" />
         <item itemvalue="Application.Task_8" />
-        <item itemvalue="Application.Task_3" />
+        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.Task_2" />
+        <item itemvalue="Application.Task_1" />
+        <item itemvalue="Application.Task_4" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759097020464</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Practice_Task_3_4">
+      <option name="closed" value="true" />
+      <created>1759925474226</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759925474226</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Practice_Task_7_8">
+      <option name="closed" value="true" />
+      <created>1760300164760</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760300164760</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +241,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practice_Task_3_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice_Task_3_4" />
+    <MESSAGE value="Practice_Task_7_8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice_Task_7_8" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practice$Task_4.ic" NAME="Task_4 Coverage Results" MODIFIED="1759926366461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>by.lessons.task_5_6.*</FILTER>
+    </SUITE>
   </component>
 </project>
