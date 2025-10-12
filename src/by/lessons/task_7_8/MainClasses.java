@@ -16,5 +16,6 @@ public class MainClasses {
         Book book5 = new Book(5, "Скоро Новый Год", "Санта", "Минск-5", 1957, 350, 88);
         Book arrayBooks[] = {book1, book2, book3, book4, book5};
         return arrayBooks;
+
     }
 }
