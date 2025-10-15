@@ -8,7 +8,6 @@ public class Book {
     int establ;
     int pages;
     double price;
-
     /**
      * Создать класс Book c полями id (тип int), name (тип String),
      * * author (тип String), издательство ( тип String ), Год издания(тип Int),
@@ -23,20 +22,15 @@ public class Book {
         this.establ = establ;
         this.pages = pages;
         this.price = price;
-
     }
 
-
     public Book() {
-
          }
-
 
     public String info() {
         String result = "Id: " + id + " name: " + name + " author: " + author + " publish: " + publish + " establ: " + establ + " pages: " + pages + " price: " + price;
         return result;
     }
-
     /*
      * 3 Создать метод, который будет изменять ценц книги (сам метод в качестве параметра будет принимать новую цену)
      */

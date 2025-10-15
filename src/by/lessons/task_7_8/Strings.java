@@ -6,6 +6,7 @@ public class Strings {
         String str = "I like Java!!!";
         System.out.println(str);
 
+
         //Распечатать последний символ строки. Используем метод String.charAt()
         char endstr = str.charAt(str.length() - 1);
         System.out.println("Последний символ строки: " +endstr);
@@ -13,6 +14,7 @@ public class Strings {
         //Проверить, заканчивается ли ваша строка подстрокой “java!”. Используем метод String.endsWith()
         boolean result = str.endsWith("Java!!!");
         System.out.println("заканчивается ли ваша строка подстрокой “java!”. " + result);
+
 
         //10. Вырезать строку Java c помощью метода String.substring()
         String sub=str.substring(0,6);
