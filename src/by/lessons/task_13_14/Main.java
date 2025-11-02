@@ -73,15 +73,10 @@ public class Main {
 //        String.purchase4= "Творог";
 //        String.purchase5= "Мясо";
 //
-//
-//
-//
 //        printList(purchases);
-//
 //
 //        purchases.remove("Молоко");
 //        printList(purchases);
-
 
 //    private static void printList (List<String> purchases) {
 //        //List <String> purchases = List.of("Хлеб", "Молоко", "Яйца", "Творог", "Мясо");
