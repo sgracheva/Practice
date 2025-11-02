@@ -90,12 +90,14 @@ public class Main {
         Book book2= new Book("Золотая рыбка", "Пушкин");
         Book book3= new Book("Муму", "Тургенев");
 
+
         List <Book> books = new ArrayList<>();
         books.add(book1);
         books.add(book2);
         books.add(book3);
 
        // books.remove(book2);
+
 
         for (Book book: books){
             System.out.println(book2);
